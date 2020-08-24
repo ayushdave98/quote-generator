@@ -1,0 +1,61 @@
+#main {
+	margin:auto;
+	text-align: center;
+	padding-top: 10%;
+}
+
+#line {
+	width:60%;
+	border-width: 2.5px;
+}
+
+#quote-box {
+	margin: auto;
+	text-align: center;
+	background-color: #c7f4fe;
+	height: auto;
+	width: 60%;
+	border-radius: 25px;
+	padding: 10px 10px 10px;
+}
+
+#new-button {
+	background-color:white;
+	font-size: 20px;
+	outline:none;
+	padding: 10px;
+	font-weight: bold;
+	cursor: pointer;
+	float:left;
+	border-radius: 12px;
+	width:30%;
+}
+
+#share-button {
+	background-color:white;
+	font-size: 20px;
+	outline:none;
+	padding: 10px;
+	font-weight: bold;
+	cursor: pointer;
+	float:right;
+	border-radius: 12px;
+	width:30%;
+}
+
+#buttons {
+	margin:auto;
+	width:50%;
+	padding-top: 10px;
+
+}
+
+h1 {
+	color: white;
+	font-weight: bold;
+}
+
+p {
+	color:black;
+	font-weight: bold;
+}
