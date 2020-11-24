@@ -1,3 +1,10 @@
+This App allows the User to generate a new quote or shared the current quote being displayed on twitter. This was a mini project I did to learn React.
+Demonstration of the App can be found here: https://technical-quote-generator.netlify.app/
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
