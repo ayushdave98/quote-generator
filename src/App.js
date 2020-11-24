@@ -26,7 +26,7 @@ class App extends React.Component {
   fetchQuote() {
     //URL from which we are fetching data
     //fetch("https://api.quotable.io/random")
-    fetch("http://quotes.stormconsultancy.co.uk/random.json")
+    fetch("https://quotes.stormconsultancy.co.uk/random.json")
 
     //We get the API response and receive data in JSON format
     .then(response => response.json())
